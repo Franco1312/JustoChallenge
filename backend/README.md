@@ -38,9 +38,6 @@ $ npm install
 Rename the file ".env.dist" to ".env" and fill with the corresponding data
 ```
 
-## Running the migrations and seeders
-
-
 ## Running the migrations
 
 ```bash
