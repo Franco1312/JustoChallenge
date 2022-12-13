@@ -1,0 +1,17 @@
+.button__generic {
+    margin: 5px;
+    padding: 2px;
+    background-color: #f4511e;
+    opacity: 0.9;
+    border: none;
+    border-radius: 2px;
+    font-family: 'Gill Sans MT';
+    color: white;
+    font-size: 0.4rem;
+    width: 50px;
+    transition: 0.3s;
+}
+
+.button__generic:hover {
+    opacity: 1.1;
+}

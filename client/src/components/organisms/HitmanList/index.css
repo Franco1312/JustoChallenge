@@ -1,0 +1,43 @@
+.linkto__generic {
+    text-decoration: none;
+    font-size: 0.30rem;
+    color: #f4511e;
+}
+
+.hitmanlist {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    grid-template-columns: repeat(3, 1fr);
+    background-color: rgb(247, 234, 226);
+}
+
+.hitmanlist__buttoncontainer{
+    background-color: rgb(247, 234, 226);
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.customcard__hitmanlist {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    border: solid #f4511e 1px;
+    width: 40px;
+    height: 20px;
+    background-color: #ee7e5c;
+    color: white;
+    font-size: 5px;
+    border-radius: 4px;
+    padding: .5rem;
+}
+.linkto__hitmanlist {
+    text-decoration: none;
+    font-size: 0.30rem;
+    color: #f4511e;
+    margin: auto;
+}

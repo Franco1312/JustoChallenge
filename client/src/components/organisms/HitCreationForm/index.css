@@ -1,0 +1,10 @@
+.hitcreationform {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(247, 234, 226);
+}

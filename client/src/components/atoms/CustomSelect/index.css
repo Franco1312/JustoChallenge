@@ -1,0 +1,23 @@
+.select__generic {
+    width: 6.3rem;
+    height: 0.8rem;
+    color: #ed8160;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 8px;
+}
+
+.selectsection__generic {
+    height: 10%;
+    margin: 3px 0;
+    text-decoration: none !important;
+}
+
+.selectlabel__generic {
+    font-size: 0.40rem;
+    font-family: 'Gill Sans MT';
+    color: #f4511e;
+
+margin: 0 0.2em 0.2em 0;
+}

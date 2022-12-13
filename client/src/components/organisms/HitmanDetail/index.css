@@ -1,0 +1,50 @@
+.navlink{
+    padding: 1em;
+}
+.hitmandetail {
+    display: flex;
+    flex-direction: column;
+ overflow: hidden;
+    justify-content: center;
+    align-items: center;
+}
+.hitmandetail_info{
+    display: flex;
+    width: 70%;
+    border: 1px solid rgb(202, 201, 201);
+    padding: 0.5em;
+
+}
+
+.customcard{
+    display: flex;
+    flex-direction: column;
+ width: 50%;
+}
+.hitmandetail__select{
+   border-radius: 1px;
+   border:none;
+   width: 100%;
+   margin-left: 3em;
+   margin-top: 1em;
+}
+
+.hitmandetail_associatedhitmans{
+    width: 70%;
+    margin-top: 1em;
+    padding: 0.5em;
+
+    
+}
+.hitmandetail__label{
+    line-height: 1.5;
+    font-size: 0.8em;
+}
+.hitmandetail__ol{
+    list-style-type: none;
+}
+.hitmandetail__li{
+    line-height: 1.5;
+    font-size: 0.6em;
+
+}

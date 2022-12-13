@@ -1,0 +1,15 @@
+.hitdetail {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+}
+.hitdetail_customcard{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}

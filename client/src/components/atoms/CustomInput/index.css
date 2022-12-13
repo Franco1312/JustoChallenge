@@ -1,0 +1,22 @@
+.input__section {
+    display: flex;
+    flex-direction: column;
+    margin: 3px 0;
+}
+
+.input__label {
+    font-size: 0.40rem;
+    font-family: 'Gill Sans MT';
+    opacity: 0.8;
+    margin-bottom: 2px;
+    color: #f4511e;
+}
+
+.input__generic {
+    width: 6rem;
+    height: 0.6rem;
+    font-size: 0.4rem;
+    outline: none;
+    text-decoration: none !important;
+
+}
