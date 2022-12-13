@@ -33,17 +33,29 @@ $ npm install
 ```
 
 ## Setting up enviroment variables
+
+```bash
 Rename the file ".env.dist" to ".env" and fill with the corresponding data
+```
 
 ## Running the migrations and seeders
 
 
 ## Running the migrations
+
+```bash
 $ npm run typeorm migration:run
+```
 
 ## Running the seeder
+
+```bash
 $ npm run seed
+```
 
 ## Start server
+
+```bash
 $ npm run start
+```
 
