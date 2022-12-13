@@ -35,7 +35,7 @@ $ npm install
 ## Setting up enviroment variables
 
 ```bash
-Rename the file ".env.dist" to ".env" and fill with the corresponding data
+Rename the ".env.dist" file to ".env" and fill with the corresponding data
 ```
 
 ## Running the migrations
